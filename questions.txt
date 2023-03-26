@@ -1,0 +1,82 @@
+Le domaine le plus coûteux jamais vendu était Voice.com, et il a atteint un prix de 30 millions de dollars américains.:vrai
+Wi-Fi est un acronyme.:faux
+En 1970, l’auteur de science-fiction Arthur C. Clarke avait prédit avec précision ce que deviendrait l’Internet.:vrai
+Steve Jobs a été le génie qui a créé le terme « World Wide Web ».:faux
+Il existe 4,66 milliards d’utilisateurs d’Internet actifs.:vrai
+La première version de l’Internet a été conceptualisée dans les années 1960.:vrai
+Facebook fut le premier vrai réseau social virtuel.:faux
+Le premier téléphone cellulaire qui pouvait se brancher à Internet était un Nokia.:vrai
+La moitié des quelque 12 à 24 millions de sites de commerce électronique font des profits.:faux
+En moyenne, Google traite plus de 40 000 recherches par seconde.:vrai
+Le premier courriel a été envoyé dans les années 1980.:faux
+L’Amérique du Nord abrite le plus fort pourcentage d’utilisateurs d’Internet.:faux
+Statista estime que 60 % des courriels dans le monde sont des pourriels.:vrai
+L’utilisateur moyen passe 6,5 heures en ligne chaque jour.:vrai
+Le Colossus servait au décryptage de codes secrets allemands.:vrai
+Steve Jobs a dévoilé le Macintosh durant un message publicitaire diffusé lors de la finale de la Série mondiale de baseball.:faux
+En 1981, les modems acoustiques permettaient aux ordinateurs de communiquer entre eux.:vrai
+Le premier nom de la souris était « indicateur de position x-y pour système d’affichage ».:vrai
+Le nom de l’entreprise Google a pour origine le terme mathématique « googol ».:vrai
+Steve Jobs a inventé la souris d’ordinateur.:faux
+La première disquette mesurait 200 mm (8 po) de diamètre.:vrai
+Le boulier a été inventé par les Incas.:faux
+L’Osborne 1, l’un des premiers ordinateurs portatifs, avait une mémoire vive de 64 ko.:vrai
+Le premier nom de Pac-Man était Puckman.:vrai
+En 1993, le navigateur Mosaic innove en affichant du texte et des images.:vrai
+Le premier article vendu sur eBay était un pointeur laser défectueux.:vrai
+Le Commodore 64 est l’ordinateur de bureau le plus vendu au monde.:vrai
+L’IBM PC, le premier ordinateur personnel d’IBM, offrait 16 ko de mémoire vive.:vrai
+Le premier pourriel (spam) vendait du faux Viagra.:faux
+Le transistor a été inventé au début de la Seconde Guerre mondiale pour permettre la communication entre les sous-marins.:faux
+La machine à calculer « pascaline » a été inventée en 1642.:vrai
+Bill Gates (Microsoft) a créé Pong, le premier jeu vidéo domestique.:faux
+La première version de Microsoft Windows, Windows 1.0 a connu un succès retentissant.:faux
+Le premier Newton affichait des pages en couleur.:faux
+Le film Tron a été exclu de l’Oscar des effets spéciaux parce que ceux-ci avaient été créés à l’aide d'ordinateurs.:vrai
+En 1952, le premier ordinateur IBM était destiné à la Chase Manhattan Bank.:faux
+Alan Turing, considéré comme le fondateur de l’informatique, était Allemand.:faux
+Le premier site web présentait des graphiques mathématiques fort détaillés.:faux
+Le premier site web a été mis en ligne par la NASA en 1991.:faux
+Steve Jobs a donné le nom de son chat à cet ordinateur.:faux
+À l’origine, le langage BASIC s’adressait aux programmeurs chevronnés.:faux
+En 1953, le premier ordinateur d’IBM se louait plus de 8000 $ par mois.:vrai
+Le magazine Time a nommé « l’ordinateur » personnalité de l’année en 1982.:vrai
+Le 11 mai 1997, un ordinateur bat le champion d’échecs Garry Kasparov.:vrai
+Bill Gates a commencé sa carrière en tant que livreur chez IBM.:faux
+En 1946, l’ENIAC, le premier ordinateur entièrement électronique, pesait plus de 30 tonnes.:vrai
+À l’origine, le langage BASIC s’adressait aux programmeurs chevronnés.:faux
+Le bogue de l’an 2000 découlait d’une erreur dans l’assemblage des transistors des ordinateurs IBM.:faux
+Plus de 200 millions d’email sont envoyés chaque minute dans le monde.:vrai
+Histoire de jouets (vo = Toy Story) est le premier long métrage réalisé en images de synthèse.:vrai
+Le boulier permet de calculer des racines carrées et cubiques.:vrai
+Silicon Valley est une banlieue de Los Angeles.:faux
+L’ENIAC était en panne la moitié du temps.:vrai
+On doit le @ dans les adresses courriel (emails) à une faute de frappe.:faux
+Apple a mis en marché son premier iPad en 2005.:faux
+En 1984, les logiciels des ordinateurs Macintosh étaient fournis sur une série de disquettes 3,5 pouces.:vrai
+En 1971, ARPANET, l’ancêtre d’internet, reliait 23 ordinateurs au total.:vrai
+Le PDP-8, le premier mini-ordinateur, pesait plus de 45 kg (100 lb).:vrai
+L’UNIVAC, le premier ordinateur commercial américain, avait prédit l’élection d’Eisenhower.:vrai
+En 1981, les modems acoustiques permettaient aux ordinateurs de communiquer entre eux.:vrai
+Le premier jeu vidéo ayant connu un véritable succès s’appelait « bong ».:faux
+À ses débuts, le producteur de films d’animation Pixar fabriquait des ordinateurs pour le secteur médical.:vrai
+La compagnie Xerox est le véritable inventeur des ordinateurs à interface graphique.:vrai
+Amazon a vendu son premier livre en ligne en 2001.:faux
+Je peux utiliser des images trouvées sur internet mais je dois ajouter une légende (titre, source) :vrai
+Le logiciel qui permet de trouver des sites internet présélectionnés par des professeurs est BCDI :vrai
+Les sites web que tu visites sont enregistrés sur mon MODEM :faux
+Les canulars transmis par messagerie électronique se nomment "Hoax" :vrai
+L'acronyme "www" des adresses sur internet signifie World Weight Web :faux
+Le pays qui possède l'extension .uk dans les adresses web est le Burkina Faso :faux
+Le .gouv d'une adresse internet signifie que c'est un site édité par le gouvernement :vrai
+Ce qui enregistre un fichier sur certains sites web, afin de vous reconnaître s'appelle un Cookie :vrai
+L'extension " .com" dans une adresse web signifie Communication :faux
+Le logiciel indispensable pour protéger son ordinateur est un Antivirus :vrai
+Le terme "geek" désigne un passionné de nouvelles technologies :vrai
+La première liaison entre ordinateurs au sein d'Arpanet a eu lieu en 1965 :faux
+Internet est vraiment devenu opérationnel en 1983 :vrai
+L'acronyme "http" signifie Hypertext Transfer Protocol :vrai
+Le premier objet qui a été acheté sur un site de vente en ligne est un album de Michael Jackson :faux
+L'année où l'achat d'un domaine .fr a-t-il été autorisé pour les particuliers est 2004 :faux
+Le nom du premier navigateur web inventé est Netscape Navigator :faux
+Le tout premier logo de facebook représentait Al Pacino :vrai
